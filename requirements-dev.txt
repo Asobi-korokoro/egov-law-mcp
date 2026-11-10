@@ -1,0 +1,2 @@
+# テスト実行にのみ要る。Dockerイメージ(requirements.txt)には含めない。
+pytest>=8,<9
